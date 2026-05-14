@@ -24,7 +24,3 @@ Junior Front-End Developer with 1 year of experience building responsive and int
 - Performance optimization
 - TypeScript basics
 - firebase 
-
-## ⚡ Fun Fact
-
-I enjoy solving UI problems more than writing backend logic (for now 😄).
